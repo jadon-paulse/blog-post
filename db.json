@@ -1,0 +1,28 @@
+{
+    "posts":
+
+    [
+        {
+            "author": "Handsome Jack",
+            "date/time": "",
+            "content": "This is Handsome Jack form Borderlands",
+            "image": ""
+        },
+
+        {
+            "author": "Hammer Head",
+            "date/time": "",
+            "content": "This is Hammer Head, crime boss of New York",
+            "image": ""
+        },
+
+        {
+            "author": "Negative Man",
+            "date/time": "",
+            "content": "I am Negative Man and I have 2 personalities and my positive side knows nothing about me",
+            "image": ""
+        }
+
+    ]
+
+}
